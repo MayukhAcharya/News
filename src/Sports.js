@@ -25,5 +25,5 @@ export default function Sports() {
     news();
   }, []);
 
-  return <Common feed={feed} text={"FC BARCELONA NEWS"} />;
+  return <Common feed={feed} text={"Indian Premier League News"} />;
 }
